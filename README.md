@@ -1,2 +1,2 @@
 # Machine Learning
-all the shit I will make 
+a simple implementation to get the flavor for KNNs
